@@ -46,6 +46,4 @@ Request duration
 rate(python_request_duration_seconds_sum[2m]) / rate(python_request_duration_seconds_total[2m])
 ```
 
-# Prometheus Guide on Kubernetes
 
-Checkout the prometheus guide [here](./kubernetes/readme.md)
